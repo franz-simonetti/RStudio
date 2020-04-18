@@ -1,4 +1,4 @@
-# Graphing Probabilty Density Functions in R
+# Graphing Probabilty Density Functions in R + test og Rstudio/GitHub integration
 # Example 1: Plotting the normal distribution of people's IQ scores - mean 100 and StDev 15; what percentage of people has an IQ score greater than 115?
 
 # Define distribution parameters
